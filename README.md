@@ -1,6 +1,7 @@
 # newz
 
-A new Flutter application.
+A news Flutter application. Using API calls. Provides with general news as well as category selected.
+Uses webpage view to render a full article from web.
 
 ## Getting Started
 
